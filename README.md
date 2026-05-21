@@ -1,5 +1,9 @@
 # wechat-ipad-protocol-research
 
+![WeChat iPad Protocol](https://img.shields.io/badge/WeChat-iPad%20Protocol-07C160?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Public%20Research-1f6feb?style=flat-square)
+![Docs](https://img.shields.io/badge/Docs-Continuous%20Update-f59e0b?style=flat-square)
+
 **交流学习联系**
 
 **WeChat: `RSCompanyCEO`**
