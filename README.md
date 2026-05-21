@@ -3,6 +3,7 @@
 ![WeChat iPad Protocol](https://img.shields.io/badge/WeChat-iPad%20Protocol-07C160?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Public%20Research-1f6feb?style=flat-square)
 ![Docs](https://img.shields.io/badge/Docs-Continuous%20Update-f59e0b?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/RYF5584/wechat-ipad-protocol-research?style=flat-square)
 
 **交流学习联系**
 
@@ -66,8 +67,13 @@ docs/<研究模块>/<具体方向>/YYYY-MM-DD - <研究主题>.md
 docs/tools/mmsf0001/2026-05-21 - 基础版mmsf0001生成接口.md
 ```
 
-## 研究索引
+## 当前公开研究
 
-- `tools / mmsf0001`
-  - [2026-05-21 - 基础版 mmsf0001 生成接口](./docs/tools/mmsf0001/2026-05-21%20-%20%E5%9F%BA%E7%A1%80%E7%89%88mmsf0001%E7%94%9F%E6%88%90%E6%8E%A5%E5%8F%A3.md)
-  - 说明：围绕微信 iPad 协议登录里的风险验证参数准备，解决验证码和 PIN 前后的安全参数衔接问题
+### tools / mmsf0001
+
+[2026-05-21 - 基础版 mmsf0001 生成接口](./docs/tools/mmsf0001/2026-05-21%20-%20%E5%9F%BA%E7%A1%80%E7%89%88mmsf0001%E7%94%9F%E6%88%90%E6%8E%A5%E5%8F%A3.md)
+
+- 研究方向：微信 iPad 协议登录里的风险验证参数准备
+- 解决问题：验证码和 PIN 前后的安全参数衔接
+- 公开内容：接口思路、返回结构示意、PB 大致方向、381 证书材料说明
+- 当前状态：已整理为公开研究文档，后续会继续补充同方向更新
